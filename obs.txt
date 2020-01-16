@@ -1,0 +1,10 @@
+/ Métodos HTTP: GET, POST, PUT, DELETE
+
+// Tipos de parâmetros:
+// Query Params: request.query (Filtros, ordenação, paginação, ...)
+// Route Params: request.params (Identificar um recurso na alteração, remoção)
+// Body: request.body (Dados para criação ou alteração de um registro)
+
+// MongoDB (Não-Relacional)
+
+//Geralmente um controller tem 5 actions básicas: index, show, store, update, destroy
